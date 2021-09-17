@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="todo">
+    <output-path>$PROJECT_DIR$/out/artifacts/todo</output-path>
+    <root id="archive" name="todo.jar">
+      <element id="module-output" name="annotation_project.main" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+      <element id="module-source" name="annotation_project.main" />
+    </root>
+  </artifact>
+</component>
